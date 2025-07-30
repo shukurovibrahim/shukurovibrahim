@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Front-end and Back-end**
 
-- 📫 How to reach me **shukurovibrahim27@gmail.com**
+- 📫 How to reach me **ibrahimshukurov275@gmail.com**
 
 - ⚡ Fun fact **I am an artist and a poet.**
 
