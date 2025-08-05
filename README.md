@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ibrahim</h1>
-<h3 align="center">Computer Science Enthusiast</h3>
-
-<br clear="both">
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shukurovibrahim.shukurovibrahim&"  />
+</div>
 
 <h1 align="center">Welcome to my Profile💖</h1>
 
@@ -19,13 +18,30 @@
 
 ###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/ibrahim-shukurov-335b78284/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="ibrahimshukurov275@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/ibrahimshukurov275" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+</div>
+
+
+
+
+###
+
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning C/C++<br>🎯 Goals: Travel the World<br>🎲 Fun fact: I am an Artist and a Poet</p>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">Tech Stack:</h2>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -62,7 +78,7 @@
 
 <br clear="both">
 
-<h2 align="left">📊 GitHub Stats:</h2>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
