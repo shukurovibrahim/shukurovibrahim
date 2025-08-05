@@ -68,9 +68,9 @@
 
 <br clear="both">
 
-![](https://github-readme-stats.vercel.app/api?username=Sevil20&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sevil20&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sevil20&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=shukurovibrahim&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shukurovibrahim&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shukurovibrahim&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ###
