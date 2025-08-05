@@ -30,9 +30,6 @@
   </a>
 </div>
 
-
-
-
 ###
 
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning C/C++<br>🎯 Goals: Travel the World<br>🎲 Fun fact: I am an Artist and a Poet</p>
@@ -75,7 +72,6 @@
 
 ###
 
-
 <br clear="both">
 
 <h2 align="left">🔥   My Stats :</h2>
@@ -87,11 +83,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shukurovibrahim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="300" width="600" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=shukurovibrahim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" display="block" height="300" width="600" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=shukurovibrahim&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="300" width="600" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shukurovibrahim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="250" width="550" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shukurovibrahim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" display="block" height="250" width="550" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=shukurovibrahim&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="250" width="550" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shukurovibrahim&radius=16&theme=dracula&area=true&order=5" height="300" width="1000" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=shukurovibrahim&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=shukurovibrahim&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="200" alt="trophy graph"  />
 </div>
 
 ###
